@@ -1,5 +1,4 @@
-# danitec1.github.io
-
+# danitec1
 ## Project setup
 ```
 npm install
