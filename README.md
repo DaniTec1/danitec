@@ -1,4 +1,4 @@
-# danidevrosas.github.io
+# danitec1.github.io
 
 ## Project setup
 ```
