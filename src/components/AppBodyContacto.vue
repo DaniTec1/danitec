@@ -18,6 +18,14 @@
       >
         <i class="fab fa-telegram-plane"></i> Telegram
       </a>
+      <a
+        href="https://www.facebook.com/profile.php?id=100011801748057"
+        class="btn btn-outline-primary btn-lg"
+        type="button"
+        target="_blank"
+      >
+        <i class="fab fa-facebook-f"></i> Facebook
+      </a>
     </div>
   </div>
 </template>

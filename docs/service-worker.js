@@ -14,10 +14,10 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.015492ab5d966dd7969293c7c1a44691.js"
+  "/precache-manifest.d606402444e85d07aa79062894d19de6.js"
 );
 
-workbox.core.setCacheNameDetails({prefix: "danitec.github.io"});
+workbox.core.setCacheNameDetails({prefix: "danitec"});
 
 self.addEventListener('message', (event) => {
   if (event.data && event.data.type === 'SKIP_WAITING') {
