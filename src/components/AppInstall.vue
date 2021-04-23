@@ -75,7 +75,7 @@ export default {
     });
   },
   mounted() {
-    setTimeout(this.isInstall, 10000);
+    setTimeout(this.isInstall, 20000);
   },
 };
 </script>
