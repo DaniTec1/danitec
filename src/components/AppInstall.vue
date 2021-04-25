@@ -53,7 +53,7 @@ export default {
     async install() {
       this.deferredPrompt.prompt();
     },
-    isInstall() {
+    async isInstall() {
       const myModal = new bootstrap.Modal(document.getElementById("modal"));
       if (window.matchMedia("(display-mode: standalone)").matches) {
       } else {
@@ -75,9 +75,10 @@ export default {
     });
   },
   mounted() {
-    window.onload = function() {
-      setTimeout(this.isInstall, 20000);
+    window.onload = () => {
+      setTimeout(this.isInstall, 20000)
     }
+    
   },
 };
 </script>
