@@ -8,7 +8,7 @@
         <h1 class="text-center">Daniel Rosas</h1>
       </div>
       <div class="col-lg-8 col-md-8 col-sm-12">
-        <p class="h3 pt-lg-2 ps-md-3">Hola, soy Técnico en Reparación y Mantenimiento de Computadoras, actualmente me encuentro estudiando 🎓Ingeniería en Sistemas Computacionales, personalmente me encanta mi trabajo y todo lo relacionado con tecnología es por ello que es para mi un gusto poder ayudarte con lo que necesites👍.</p>
+        <p class="h3 pt-lg-2 ps-md-3">Servicio Técnico DANITEC ofrece la mejor asistencia, atención y servicio para ti. Me encantaría ayudarte en lo que necesites, aclarar tus dudas y darte la mejor recomendación sobre tecnología, consultar los <a href="#servicios">servicios</a> que te ofrezco o si necesitas ayuda en algo más, escríbeme un <a href="#contacto">mensaje</a> sin ningún compromiso.</p>
       </div>
     </div>
   </div>
